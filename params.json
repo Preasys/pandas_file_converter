@@ -1,0 +1,8 @@
+{
+    "source_format": "csv",
+    "target_format": "json",
+    "source_file_path": "data\\retail_db",
+    "source_entity": "orders",
+    "target_file_path": "converted_files\\retail_db",
+    "schema_details": "data\\retail_db\\schemas.json"
+}
